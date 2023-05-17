@@ -1,0 +1,5 @@
+export enum Status {
+  OFFERING = 'OFFERING',
+  RUNNING = 'RUNNING',
+  OFFBOARDING = 'OFFBOARDING',
+}
